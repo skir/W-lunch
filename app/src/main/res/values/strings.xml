@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">W:lunch</string>
+    <string name="login">Choose the most comfortable way to login</string>
+    <string name="login_lite">Login</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="phone">PHONE</string>
+    <string name="password_description">Your number will be your login, and now create your password</string>
+    <string name="password">PASSWORD</string>
+    <string name="invite_code_description">Now you get your passcode by sms</string>
+    <string name="invite_code">INVITE CODE</string>
+
+    <string name="places">Places</string>
+    <string name="discover">Discover</string>
+    <string name="google_maps_key">AIzaSyCO6iDxvZYE2DucD6sW4uBcqo_XozQ5rvU</string>
+
+    <string name="nothing_to_show">Nothing to show</string>
+    <string name="menu_for_today">Menu for today</string>
+    <string name="time">Время ланча :  12:00 - 15.00</string>
+    <string name="distance">0.5 km</string>
+    <string name="today_menu">TODAY MENU</string>
+    <string name="price">12$</string>
+
+    <string name="congratulations">Congratulations!</string>
+    <string name="your_lunch_will_be_served_in">Your lunch will be served in:</string>
+    <string name="minutes">Minutes</string>
+    <string name="ok_im_here">OK, I’M HERE!</string>
+    <string name="choose_number_of_persons">Choose number of persons</string>
+    <string name="ok_thanks">OK, THANKS</string>
+    <string name="coffee_and_cupcakes">Coffee &amp; cupcakes</string>
+
+    <string name="serve">SERVE</string>
+    <string name="next">Next</string>
+
+    <string name="facebook_app_id">946786782084719</string>
+</resources>
